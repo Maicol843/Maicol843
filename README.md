@@ -14,7 +14,7 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- A passionate Self-taught Front-End Developer
 - Play football in free time
 - Currently learning Web Development by Self
 

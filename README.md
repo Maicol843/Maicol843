@@ -40,6 +40,7 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 
 <br>
 
@@ -54,9 +55,18 @@
    
 <br>
 
+-  **DATABASE**:
+
+  	<img src="https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+  	<img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+
+<br>
+
 - **IDE**:
 
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Netbeans-%231B6AC6?style=for-the-badge&logo=Apache%20NetBeans%20IDE&logoColor=white">
+
 
 <br>
 
@@ -66,8 +76,10 @@
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-  
-  
+  <img alt="Static Badge" src="https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Font%20Awesome-%23528DD7?style=for-the-badge&logo=Font%20Awesome&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Google%20Fonts-%234285F4?style=for-the-badge&logo=Google%20Fonts&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Vue-%234FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
 
 </p>
 
@@ -117,6 +129,22 @@
 <li>
 <a href="mailto:desarrolloweb.jujuy24@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  desarrolloweb.jujuy24-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+
+<br> 
+
+<li>
+<a href="https://www.facebook.com/Maicol Daniel Mamani Chalco" target="_blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/MAICOL%20DANIEL%20MAMANI%20CHALCO-%230866FF?style=for-the-badge&logo=Facebook&logoColor=white&label=Facebook&labelColor=%230866FF" style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="https://www.instagram.com/maicolchalco" target="_blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/maicolchalco-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white&label=Instagram&labelColor=%23E4405F" style="margin-bottom: 5px;"/>
 </a>
 </li>
 	

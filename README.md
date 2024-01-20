@@ -81,6 +81,25 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Google%20Fonts-%234285F4?style=for-the-badge&logo=Google%20Fonts&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Vue-%234FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
 
+<br>
+
+- **Graphic Design**:
+  
+	<img alt="Static Badge" src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white">
+	<img alt="Static Badge" src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white">
+	<img alt="Static Badge" src="https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=Canva&logoColor=white">
+
+<br>
+
+- **3D Design**:
+  
+	<img alt="Static Badge" src="https://img.shields.io/badge/Blender-%23E87D0D?style=for-the-badge&logo=Blender&logoColor=white">
+	<img alt="Static Badge" src="https://img.shields.io/badge/Fusion%20360-%23000000?style=for-the-badge&logo=Autodesk&logoColor=white">
+	<img alt="Static Badge" src="https://img.shields.io/badge/SolidWorks-%23005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white">
+	<img alt="Static Badge" src="https://img.shields.io/badge/AutoCAD-%23E51050?style=for-the-badge&logo=AutoCAD&logoColor=white">
+	<img alt="Static Badge" src="https://img.shields.io/badge/SketchUp-%23005F9E?style=for-the-badge&logo=sketchup&logoColor=white">
+
+
 </p>
 
 <br>

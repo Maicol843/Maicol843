@@ -55,7 +55,7 @@
    
 <br>
 
--  **DATABASE**:
+-  **Database**:
 
   	<img src="https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
   	<img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white">
@@ -146,8 +146,8 @@
 <br>
 
 <li>
-<a href="mailto:desarrolloweb.jujuy24@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  desarrolloweb.jujuy24-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:desarrolladorweb.jujuy24@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  desarrolladorweb.jujuy24-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 

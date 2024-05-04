@@ -52,6 +52,7 @@
    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=#E23237">
    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Vue-%234FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
    
 <br>
 
@@ -79,7 +80,6 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Font%20Awesome-%23528DD7?style=for-the-badge&logo=Font%20Awesome&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Google%20Fonts-%234285F4?style=for-the-badge&logo=Google%20Fonts&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Vue-%234FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
 
 <br>
 

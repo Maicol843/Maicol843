@@ -1,20 +1,21 @@
 <h1 align="center"><b>Hi , I'm Maicol Daniel Mamani Chalco </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72727&width=435&lines=Web+developer;Industrial+Engineering+student;3D+designer;Design+of+biomechanical+prostheses" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72727&width=435&lines=Web+developer;Frontend+|+Backend;React+|+Angular+|+Vue;Node+|+Java+|+PHP+|+Python" alt="Typing SVG" /></a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0dcca784-9c65-47ec-a3a8-aa4af0cd8079" alt="Javascript"  width="100%"/>
+</p>
 
 <br>
-
-
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **About me**
 
 
 <br>
 
-- A passionate Self-taught Front-End Developer
+- A passionate Self-taught FullStack Developer
 - Play football in free time
 - Currently learning Web Development by Self
 
@@ -29,9 +30,12 @@
 
 - **Languages**:
     
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+	![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+	![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+	![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+	![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+	![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+	
     
 <br>   
     
@@ -105,10 +109,7 @@
 <br>
 <br>
 
------
-
-<br>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
@@ -116,59 +117,65 @@
 <p align="center">
     <a href="https://github.com/Maicol843/github-readme-stats">
 	    <img alt="Maicol843 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Maicol843&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maicol843&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Maicol843" height="230px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maicol843&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Maicol843" width="300px"/>
 <br/>
 
 <br>
 <br>
 <br>
-
------
+### 📈 Activity Graph
+ 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Maicol843&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 <br>
+<br>
+<p align = "center">
+	<img src = "https://github.com/Maicol843/Snake_gif/blob/main/github-user-contribution.svg" alt = "Snake Game"/>
+</p>
+<br/>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <b> Let's Connect..!</b><img src="https://github.com/Maicol843/Maicol/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
+	
+[![Website](https://img.shields.io/badge/Website-webmanka.com-orange?style=for-the-badge&logo=website&logoColor=white&labelColor=black)](https://webmanka.com)
 
-<ul>
-
-<li>
 <a href="https://linkedin.com/in/maicolchalco" target="_blank">
 <img src="https://img.shields.io/badge/linkedin: maicolchalco-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-</li>
 
 <br>
+<br>
 
-<li>
 <a href="mailto:desarrolladorweb.jujuy24@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  desarrolladorweb.jujuy24-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-</li>
 
-<br> 
+<br>
+<br>
 
-<li>
 <a href="https://www.facebook.com/Maicol Daniel Mamani Chalco" target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/MAICOL%20DANIEL%20MAMANI%20CHALCO-%230866FF?style=for-the-badge&logo=Facebook&logoColor=white&label=Facebook&labelColor=%230866FF" style="margin-bottom: 5px;"/>
 </a>
-</li>
 
 <br>
+<br>
 
-<li>
 <a href="https://www.instagram.com/maicolchalco" target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/maicolchalco-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white&label=Instagram&labelColor=%23E4405F" style="margin-bottom: 5px;"/>
 </a>
-</li>
-	
-</ul>
+
 </div>
+
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+Credit: [Maicol843] (https://github.com/Maicol843)
+<br>
+Last edited on: 30/10/2025
 <br>
 <br>
 <br>

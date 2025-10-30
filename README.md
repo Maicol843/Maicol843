@@ -58,6 +58,8 @@
    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
    <img alt="Static Badge" src="https://img.shields.io/badge/Vue-%234FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
    
+   ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+   
 <br>
 
 -  **Database**:
@@ -84,6 +86,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Font%20Awesome-%23528DD7?style=for-the-badge&logo=Font%20Awesome&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Google%20Fonts-%234285F4?style=for-the-badge&logo=Google%20Fonts&logoColor=white">
+
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <br>
 

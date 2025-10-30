@@ -119,12 +119,6 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maicol843&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Maicol843" height="230px"/>
 <br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
 <br>
 <br>
 <br>

@@ -121,14 +121,16 @@
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maicol843&layout=compact&theme=tokyonight" alt="Lenguajes de Maicol843" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Maicol843&show_icons=true&theme=tokyonight" alt="Stats de Maicol843" />
+  <br>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maicol843&theme=tokyonight&hide_border=true" alt="Maicol843 Streak" />
 </p>
 
 <br/>
+<br>
 
+📈 <b> Activity Graph </b>
 <br>
-<br>
-<br>
-## 📈 Activity Graph
  
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Maicol843&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -139,6 +141,7 @@
 	<img src = "https://github.com/Maicol843/Snake_gif/blob/main/github-user-contribution.svg" alt = "Snake Game"/>
 </p>
 <br/>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 

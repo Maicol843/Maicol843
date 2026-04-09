@@ -119,15 +119,16 @@
 <br>
 
 <p align="center">
-    <a href="https://github.com/Maicol843/github-readme-stats">
-	    <img alt="Maicol843 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Maicol843&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maicol843&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Maicol843" width="300px"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maicol843&layout=compact&theme=tokyonight" alt="Lenguajes de Maicol843" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Maicol843&show_icons=true&theme=tokyonight" alt="Stats de Maicol843" />
+</p>
+
 <br/>
 
 <br>
 <br>
 <br>
-### 📈 Activity Graph
+## 📈 Activity Graph
  
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Maicol843&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
